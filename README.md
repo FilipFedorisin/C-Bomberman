@@ -6,9 +6,13 @@ Begginer C language game made with curses
 Author: Filip Fedorišin
 
 How to install:
+
 1-Download all files into one folder
+
 2-Type $ make all
+
 3-Type $ ./game
+
 4-Type $ ./game debug  // for debug mode ingame
 
 Note:
