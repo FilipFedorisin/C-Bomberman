@@ -1,7 +1,7 @@
 # bomberman # c game # beginner
 
 Bomberman - 
-Begginer C language game made with curses
+Beginner C language game made with curses
 
 Author: Filip Fedorišin
 
