@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include <stdio.h>    //including header files for standard input and output
 #include <stdlib.h>
-#include <string.h>
+#include <string.h>     //including header files to use string functions 
 #include "bomber.h" //This is like a link to a  library with functions defined in bomber.c
 
 int main(int argc, char* argv[]) {
